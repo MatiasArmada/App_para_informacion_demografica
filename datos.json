@@ -1,0 +1,32 @@
+{
+    "__class__": "ManejadorProvincias",
+    "Provincia": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "cantidad_hab": 900000,
+                "cantidad_dep": 19
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Mendoza",
+                "capital": "Mendoza",
+                "cantidad_hab": 1200000,
+                "cantidad_dep": 16
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Luis",
+                "capital": "San Luis",
+                "cantidad_hab": 1200000,
+                "cantidad_dep": 16
+            }
+        }
+    ]
+}
